@@ -16,3 +16,7 @@ http://stackoverflow.com/questions/29269829/webupd8-java-home-not-set-after-inst
 Other Java links
 ----------------
 https://help.ubuntu.com/community/Java
+
+ubuntu links
+------------
+https://help.ubuntu.com/community/EnvironmentVariables
