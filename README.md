@@ -20,3 +20,7 @@ https://help.ubuntu.com/community/Java
 ubuntu links
 ------------
 https://help.ubuntu.com/community/EnvironmentVariables
+
+windows links
+-------------
+http://windows.microsoft.com/en-US/windows7/Install-Windows-updates
