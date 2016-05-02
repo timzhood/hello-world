@@ -29,3 +29,6 @@ https://en.wikipedia.org/wiki/System_File_Checker
 
 ### Fix Windows Update errors by using the DISM or System Update Readiness tool
 https://support.microsoft.com/en-us/kb/947821
+
+### https://support.microsoft.com/en-us/kb/971058
+Automatically reset Windows Update components
