@@ -24,4 +24,8 @@ http://windows.microsoft.com/en-US/windows7/Install-Windows-updates
 ### How to update the Windows Update Agent to the latest version
 https://support.microsoft.com/en-us/kb/949104
 
+### SFC
 https://en.wikipedia.org/wiki/System_File_Checker
+
+### Fix Windows Update errors by using the DISM or System Update Readiness tool
+https://support.microsoft.com/en-us/kb/947821
